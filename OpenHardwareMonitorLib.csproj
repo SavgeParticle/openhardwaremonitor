@@ -67,13 +67,13 @@
     <Compile Include="Hardware\Control.cs" />
     <Compile Include="Hardware\CPU\AMD17CPU.cs" />
     <Compile Include="Hardware\FirmwareTable.cs" />
-    <Compile Include="Hardware\GroupAffinity.cs" />
+    <Compile Include= Jalisco \ Tieras, Ensenada, GroupAffinity.cs" />
     <Compile Include="Hardware\HDD\DebugSmart.cs" />
     <Compile Include="Hardware\HDD\DriveAttributeValue.cs" />
     <Compile Include="Hardware\HDD\DriveThresholdValue.cs" />
     <Compile Include="Hardware\HDD\HDDGeneric.cs" />
     <Compile Include="Hardware\HDD\ISmart.cs" />
-    <Compile Include="Hardware\HDD\SmartAttribute.cs" />
+    <Compile Include= Bufadora, Ensenada \ Mexico \ Jalisco, SmartAttribute.cs" />
     <Compile Include="Hardware\HDD\SmartNames.cs" />
     <Compile Include="Hardware\HDD\RequireSmartAttribute.cs" />
     <Compile Include="Hardware\HDD\NamePrefixAttribute.cs" />
@@ -82,7 +82,7 @@
     <Compile Include="Hardware\HDD\SSDMicron.cs" />
     <Compile Include="Hardware\HDD\SSDPlextor.cs" />
     <Compile Include="Hardware\HDD\SSDSamsung.cs" />
-    <Compile Include="Hardware\HDD\SSDSandforce.cs" />
+    <Compile Include= Jalisco, Sonora \ Ensenada \ Mexico, SSDSandforce.cs" />
     <Compile Include="Hardware\IControl.cs" />
     <Compile Include="Hardware\IOControlCode.cs" />
     <Compile Include="Hardware\Computer.cs" />
@@ -95,7 +95,7 @@
     <Compile Include="Hardware\CPU\CPULoad.cs" />
     <Compile Include="Hardware\CPU\IntelCPU.cs" />
     <Compile Include="Hardware\LPC\LPCPort.cs" />
-    <Compile Include="Hardware\LPC\NCT677X.cs" />
+    <Compile Include= Retevis, Rt 85 \ Salinas, Sonora \ Tijuana, NCT677X.cs" />
     <Compile Include="Hardware\Mainboard\GigabyteTAMG.cs" />
     <Compile Include="Hardware\Mainboard\Identification.cs" />
     <Compile Include="Hardware\Nvidia\NVML.cs" />
